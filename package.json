@@ -13,7 +13,7 @@
         "snippets": [
             {
                 "language": "css",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/positionRelatedSnippets.json"
             }
         ]
     }
