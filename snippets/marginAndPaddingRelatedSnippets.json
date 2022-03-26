@@ -22,5 +22,12 @@
     "body":[
       "margin: ${1:100px} ${2:100px} ${3:100px} ${4:100px};"
     ]
+  },
+  "Padding":{
+    "description": "Padding Property",
+    "prefix": "!padding",
+    "body":[
+      "padding: ${1:100px} ${2:100px} ${3:100px} ${4:100px};"
+    ]
   }
 }
