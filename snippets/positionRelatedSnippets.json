@@ -3,11 +3,11 @@
     "description": "Position Property With Top, Bottom, Right, Left Properties",
     "prefix": "!position",
     "body":[
-      "position: ${1:value};",
-      "top: ${2:value};",
-      "bottom: ${3:value};",
-      "right: ${4:value};",
-      "left: ${5:value};"
+      "position: ${1:absolute};",
+      "top: ${2:100px};",
+      "bottom: ${3:100px};",
+      "right: ${4:100px};",
+      "left: ${5:100px};"
     ]
   },
   "Centering A Component":{
