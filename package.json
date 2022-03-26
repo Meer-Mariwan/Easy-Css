@@ -1,0 +1,20 @@
+{
+    "name": "easy-css",
+    "displayName": "Easy Css",
+    "description": "Writing Css Code Is Hard Make It Easy By Using Easy css Snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
