@@ -1,4 +1,15 @@
 {
+  "Position With All Four Directions":{
+    "description": "Position Property With Top, Bottom, Right, Left Properties",
+    "prefix": "!position",
+    "body":[
+      "position: ${1:value};",
+      "top: ${2:value};",
+      "bottom: ${3:value};",
+      "right: ${4:value};",
+      "left: ${5:value};"
+    ]
+  },
   "Centering A Component":{
     "description": "Centering A Component Using Position And Transform Properties",
     "prefix": "!center",
