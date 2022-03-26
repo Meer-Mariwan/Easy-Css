@@ -15,5 +15,12 @@
       "margin: ${1:100px} ${2:100px} ${3:100px} ${4:100px};",
       "padding: ${5:100px} ${6:100px} ${7:100px} ${8:100px};"
     ]
+  },
+  "Margin":{
+    "description": "Margin Property",
+    "prefix": "!margin",
+    "body":[
+      "margin: ${1:100px} ${2:100px} ${3:100px} ${4:100px};"
+    ]
   }
 }
