@@ -39,5 +39,15 @@
       "margin-right: ${3:100px};",
       "margin-left: ${4:100px};" 
     ]
+  },
+  "All Padding":{
+    "description": "Padding Top, Bottom, Right, Left Properties",
+    "prefix": "!ap",
+    "body":[
+      "padding-top: ${1:100px};",
+      "padding-bottom: ${2:100px};",
+      "padding-right: ${3:100px};",
+      "padding-left: ${4:100px};" 
+    ]
   }
 }
