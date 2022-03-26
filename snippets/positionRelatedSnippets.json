@@ -19,5 +19,14 @@
       "left: ${3:50%};",
       "transform: translate(${4:-50%},${5:-50%});"
     ]
+  },
+  "Box-Sizing, Margin And Padding":{
+    "description": "Set box-sizing To border-box And Remove Margin And Padding",
+    "prefix": "!bmp",
+    "body":[
+      "box-sizing: ${1:border-box};",
+      "margin: ${2:0};",
+      "padding: ${3:0};"
+    ]
   }
 }
