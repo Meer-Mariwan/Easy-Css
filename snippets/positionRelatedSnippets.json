@@ -1,1 +1,12 @@
-{}
+{
+  "Centering A Component":{
+    "description": "Centering A Component Using Position And Transform Properties",
+    "prefix": "!center",
+    "body":[
+      "position: ${1:absolute};",
+      "top: ${2:50%};",
+      "left: ${3:50%};",
+      "transform: translate(${4:-50%},${5:-50%});"
+    ]
+  }
+}
