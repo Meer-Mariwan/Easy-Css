@@ -14,6 +14,10 @@
             {
                 "language": "css",
                 "path": "./snippets/positionRelatedSnippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/marginAndPaddingRelatedSnippets.json"
             }
         ]
     }
