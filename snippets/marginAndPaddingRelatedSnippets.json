@@ -29,5 +29,15 @@
     "body":[
       "padding: ${1:100px} ${2:100px} ${3:100px} ${4:100px};"
     ]
+  },
+  "All Margin":{
+    "description": "Margin Top, Bottom, Right, Left Properties",
+    "prefix": "!am",
+    "body":[
+      "margin-top: ${1:100px};",
+      "margin-bottom: ${2:100px};",
+      "margin-right: ${3:100px};",
+      "margin-left: ${4:100px};" 
+    ]
   }
 }
