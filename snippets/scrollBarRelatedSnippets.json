@@ -43,5 +43,14 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "Webkit-Scrollbar-Track-Piece Property":{
+    "description": "Webkit-Scrollbar-Track-Piece Property",
+    "prefix": "!wstrp",
+    "body":[
+      "::-webkit-scrollbar-track-piece {",
+      "${1:$0}",
+      "}"
+    ]
   }
 }
