@@ -16,5 +16,14 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "Webkit-Scrollbar-Corner Property":{
+    "description": "Webkit-Scrollbar-Corner Property",
+    "prefix": "!wsc",
+    "body":[
+      "::-webkit-scrollbar-corner {",
+      "${1:$0}",
+      "}"
+    ]
   }
 }
