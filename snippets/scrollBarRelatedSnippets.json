@@ -34,5 +34,14 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "Webkit-Scrollbar-Track Property":{
+    "description": "Webkit-Scrollbar-Track Property",
+    "prefix": "!wstr",
+    "body":[
+      "::-webkit-scrollbar-track {",
+      "${1:$0}",
+      "}"
+    ]
   }
 }
