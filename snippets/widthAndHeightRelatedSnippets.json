@@ -24,5 +24,17 @@
       "max-height: ${2:100px};",
       "min-height: ${3:100px};"
     ]
+  },
+  "All Widths And Heights":{
+    "description": "Width Property With Max And Min Width Properties, Height Property With Min And Max Height Properties",
+    "prefix": "!awh",
+    "body":[
+      "width: ${1:100px};",
+      "max-width: ${2:100px};",
+      "min-width: ${3:100px};",
+      "height: ${4:100px};",
+      "max-height: ${5:100px};",
+      "min-height: ${6:100px};"
+    ]
   }
 }
