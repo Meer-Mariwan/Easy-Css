@@ -50,6 +50,20 @@
       "padding-left: ${4:100px};" 
     ]
   },
+  "All Margins And Paddings":{
+    "description": "Margin Top, Bottom, Right, Left, Padding Top, Bottom, Right, Left Properties",
+    "prefix": "!amp",
+    "body":[
+      "margin-top: ${1:100px};",
+      "margin-bottom: ${2:100px};",
+      "margin-right: ${3:100px};",
+      "margin-left: ${4:100px};", 
+      "padding-top: ${5:100px};",
+      "padding-bottom: ${6:100px};",
+      "padding-right: ${7:100px};",
+      "padding-left: ${8:100px};" 
+    ]
+  },
   "Margin Auto":{
     "description": "Set Margin Right And Left To Auto",
     "prefix": "!ma",
