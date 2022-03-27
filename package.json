@@ -18,6 +18,10 @@
             {
                 "language": "css",
                 "path": "./snippets/marginAndPaddingRelatedSnippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/widthAndHeightRelatedSnippets.json"
             }
         ]
     }
