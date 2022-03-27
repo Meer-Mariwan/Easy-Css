@@ -49,5 +49,13 @@
       "padding-right: ${3:100px};",
       "padding-left: ${4:100px};" 
     ]
+  },
+  "Margin Auto":{
+    "description": "Set Margin Right And Left To Auto",
+    "prefix": "!ma",
+    "body":[
+      "margin-right: ${1:auto};",
+      "margin-left: ${2:auto};" 
+    ]
   }
 }
