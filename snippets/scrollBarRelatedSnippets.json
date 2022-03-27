@@ -52,5 +52,34 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "All Webkit-Scrollbar Properties":{
+    "description": "All Webkit-Scrollbar Properties",
+    "prefix": "!aws",
+    "body":[
+      "::-webkit-scrollbar {",
+      "${1:$0}",
+      "}",
+      "$0",
+      "::-webkit-scrollbar-button {",
+      "${2:$0}",
+      "}",
+      "$0",
+      "::-webkit-scrollbar-corner {",
+      "${3:$0}",
+      "}",
+      "$0",
+      "::-webkit-scrollbar-thumb {",
+      "${4:$0}",
+      "}",
+      "$0",
+      "::-webkit-scrollbar-track {",
+      "${5:$0}",
+      "}",      
+      "$0",
+      "::-webkit-scrollbar-track-piece {",
+      "${6:$0}",
+      "}"
+    ]
   }
 }
