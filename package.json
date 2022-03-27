@@ -22,6 +22,10 @@
             {
                 "language": "css",
                 "path": "./snippets/widthAndHeightRelatedSnippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/scrollBarRelatedSnippets.json"
             }
         ]
     }
