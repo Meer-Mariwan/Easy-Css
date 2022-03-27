@@ -15,5 +15,14 @@
       "max-width: ${2:100px};",
       "min-width: ${3:100px};"
     ]
+  },
+  "All Heights":{
+    "description": "Height Property With Min And Max Height Properties",
+    "prefix": "!ah",
+    "body":[
+      "height: ${1:100px};",
+      "max-height: ${2:100px};",
+      "min-height: ${3:100px};"
+    ]
   }
 }
