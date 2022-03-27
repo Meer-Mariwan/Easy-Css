@@ -1,1 +1,10 @@
-{}
+{
+  "Width And Height":{
+    "description": "Width And Height Properties",
+    "prefix": "!wh",
+    "body":[
+      "width: ${1:100px};",
+      "height: ${2:100px};"
+    ]
+  }
+}
