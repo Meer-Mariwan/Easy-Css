@@ -25,5 +25,14 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "Webkit-Scrollbar-Thumb Property":{
+    "description": "Webkit-Scrollbar-Thumb Property",
+    "prefix": "!wsth",
+    "body":[
+      "::-webkit-scrollbar-thumb {",
+      "${1:$0}",
+      "}"
+    ]
   }
 }
