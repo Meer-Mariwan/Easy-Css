@@ -7,5 +7,14 @@
       "${1:$0}",
       "}"
     ]
+  },
+  "Webkit-Scrollbar-Button Property":{
+    "description": "Webkit-Scrollbar-Button Property",
+    "prefix": "!wsb",
+    "body":[
+      "::-webkit-scrollbar-button {",
+      "${1:$0}",
+      "}"
+    ]
   }
 }
