@@ -1,32 +1,32 @@
 {
-  "All Align Properties":{
-    "description": "All Align Properties",
-    "prefix": "!aa",
-    "body":[
-      "align-items: ${1:center};",
-      "align-content: ${2:center};",
-      "align-self: ${3:center};"
-    ]
-  },
   "All Justify Properties":{
     "description": "All Justify Properties",
     "prefix": "!aj",
     "body":[
-      "justify-items: ${1:center};",
-      "justify-content: ${2:center};",
+      "justify-content: ${1:center};",
+      "justify-items: ${2:center};",
       "justify-self: ${3:center};"
+    ]
+  },
+  "All Align Properties":{
+    "description": "All Align Properties",
+    "prefix": "!aa",
+    "body":[
+      "align-content: ${1:center};",
+      "align-items: ${2:center};",
+      "align-self: ${3:center};"
     ]
   },
   "All Align And Justify Properties":{
     "description": "All Align And Justify Properties",
     "prefix": "!aaj",
     "body":[
-      "align-items: ${1:center};",
-      "align-content: ${2:center};",
-      "align-self: ${3:center};",
-      "justify-items: ${4:center};",
-      "justify-content: ${5:center};",
-      "justify-self: ${6:center};"
+      "justify-content: ${1:center};",
+      "justify-items: ${2:center};",
+      "justify-self: ${3:center};",
+      "align-content: ${4:center};",
+      "align-items: ${5:center};",
+      "align-self: ${6:center};"
     ]
   }
 }
