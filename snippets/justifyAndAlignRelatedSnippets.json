@@ -7,5 +7,14 @@
       "align-content: ${2:center};",
       "align-self: ${3:center};"
     ]
+  },
+  "All Justify Properties":{
+    "description": "All Justify Properties",
+    "prefix": "!aj",
+    "body":[
+      "justify-items: ${1:center};",
+      "justify-content: ${2:center};",
+      "justify-self: ${3:center};"
+    ]
   }
 }
