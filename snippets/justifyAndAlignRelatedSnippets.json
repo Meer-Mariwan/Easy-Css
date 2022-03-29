@@ -16,5 +16,17 @@
       "justify-content: ${2:center};",
       "justify-self: ${3:center};"
     ]
+  },
+  "All Align And Justify Properties":{
+    "description": "All Align And Justify Properties",
+    "prefix": "!aaj",
+    "body":[
+      "align-items: ${1:center};",
+      "align-content: ${2:center};",
+      "align-self: ${3:center};",
+      "justify-items: ${4:center};",
+      "justify-content: ${5:center};",
+      "justify-self: ${6:center};"
+    ]
   }
 }
