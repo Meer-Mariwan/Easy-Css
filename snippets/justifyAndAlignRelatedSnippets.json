@@ -1,1 +1,11 @@
-{}
+{
+  "All Align Properties":{
+    "description": "All Align Properties",
+    "prefix": "!aa",
+    "body":[
+      "align-items: ${1:center};",
+      "align-content: ${2:center};",
+      "align-self: ${3:center};"
+    ]
+  }
+}
