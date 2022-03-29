@@ -30,7 +30,12 @@
             {
               "language": "css",
               "path": "./snippets/justifyAndAlignRelatedSnippets.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/pseudoElementsRelatedSnippets.json"
             }
+
         ]
     }
 }
