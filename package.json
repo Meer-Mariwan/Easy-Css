@@ -38,6 +38,10 @@
             {
               "language": "css",
               "path": "./snippets/PseudoClassesRelatedSnippets.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/opacityAndVisibilityRelatedSnippets.json"
             }
 
         ]
