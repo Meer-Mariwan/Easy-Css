@@ -16,5 +16,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Disabled Pseudo Class":{
+    "description": "Disabled Pseudo Class",
+    "prefix": "!disabled",
+    "body":[
+      "${1:selector}:disabled {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
