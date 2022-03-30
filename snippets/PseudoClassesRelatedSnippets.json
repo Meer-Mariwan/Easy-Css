@@ -160,5 +160,14 @@
       "${3:$0}",
       "}" 
     ]
+  },
+  "Nth Last Of Type Pseudo Class":{
+    "description": "Nth Last Of Type Pseudo Class",
+    "prefix": "!nth-last-of-type",
+    "body":[
+      "${1:selector}:nth-last-of-type(${2:n}) {",
+      "${3:$0}",
+      "}" 
+    ]
   }
 }
