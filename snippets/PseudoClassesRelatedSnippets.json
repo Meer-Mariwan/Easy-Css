@@ -70,5 +70,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Hover Pseudo Class":{
+    "description": "Hover Pseudo Class",
+    "prefix": "!hover",
+    "body":[
+      "${1:selector}:hover {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
