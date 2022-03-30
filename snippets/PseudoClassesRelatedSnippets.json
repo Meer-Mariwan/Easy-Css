@@ -196,5 +196,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Optional Pseudo Class":{
+    "description": "Optional Pseudo Class",
+    "prefix": "!optional",
+    "body":[
+      "${1:selector}:optional {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
