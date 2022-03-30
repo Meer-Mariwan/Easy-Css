@@ -16,5 +16,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "First Letter Pseudo Element":{
+    "description": "First Letter Pseudo Element",
+    "prefix": "!first-letter",
+    "body":[
+      "${1:selector}::first-letter {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
