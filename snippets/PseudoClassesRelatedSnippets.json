@@ -79,5 +79,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "In Range Pseudo Class":{
+    "description": "In Range Pseudo Class",
+    "prefix": "!in-range",
+    "body":[
+      "${1:selector}:in-range {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
