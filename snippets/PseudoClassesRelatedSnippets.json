@@ -250,5 +250,14 @@
       "${1:$0}",
       "}" 
     ]
+  },
+  "Target Pseudo Class":{
+    "description": "Target Pseudo Class",
+    "prefix": "!target",
+    "body":[
+      ":target {",
+      "${1:$0}",
+      "}" 
+    ]
   }
 }
