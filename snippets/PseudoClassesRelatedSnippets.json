@@ -52,5 +52,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "First Of Type Pseudo Class":{
+    "description": "First Of Type Pseudo Class",
+    "prefix": "!first-of-type",
+    "body":[
+      "${1:selector}:first-of-type {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
