@@ -25,5 +25,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Empty Pseudo Class":{
+    "description": "Empty Pseudo Class",
+    "prefix": "!empty",
+    "body":[
+      "${1:selector}:empty {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
