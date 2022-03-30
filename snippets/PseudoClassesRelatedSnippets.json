@@ -241,5 +241,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Root Pseudo Class":{
+    "description": "Root Pseudo Class",
+    "prefix": "!root",
+    "body":[
+      ":root {",
+      "${1:$0}",
+      "}" 
+    ]
   }
 }
