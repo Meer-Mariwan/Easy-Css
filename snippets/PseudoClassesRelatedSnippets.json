@@ -187,5 +187,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Only Child Pseudo Class":{
+    "description": "Only Child Pseudo Class",
+    "prefix": "!only-child",
+    "body":[
+      "${1:selector}:only-child {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
