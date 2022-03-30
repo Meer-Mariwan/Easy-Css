@@ -97,5 +97,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Lang Pseudo Class":{
+    "description": "Lang Pseudo Class",
+    "prefix": "!lang",
+    "body":[
+      "${1:selector}:lang(${2:language}) {",
+      "${3:$0}",
+      "}" 
+    ]
   }
 }
