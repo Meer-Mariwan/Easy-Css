@@ -178,5 +178,14 @@
       "${3:$0}",
       "}" 
     ]
+  },
+  "Only Of Type Pseudo Class":{
+    "description": "Only Of Type Pseudo Class",
+    "prefix": "!only-of-type",
+    "body":[
+      "${1:selector}:only-of-type {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
