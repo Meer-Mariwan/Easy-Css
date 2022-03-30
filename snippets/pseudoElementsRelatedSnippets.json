@@ -1,1 +1,11 @@
-{}
+{
+  "After Pseudo Element":{
+    "description": "After Pseudo Element",
+    "prefix": "!after",
+    "body":[
+      "${1:selector}::after {",
+      "${2:$0}",
+      "}" 
+    ]
+  }
+}
