@@ -223,5 +223,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Read Write Pseudo Class":{
+    "description": "Read Write Pseudo Class",
+    "prefix": "!read-write",
+    "body":[
+      "${1:selector}:read-write {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
