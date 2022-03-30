@@ -1,1 +1,11 @@
-{}
+{
+  "Active Pseudo Class":{
+    "description": "Active Pseudo Class",
+    "prefix": "!active",
+    "body":[
+      "${1:selector}:active {",
+      "${2:$0}",
+      "}" 
+    ]
+  }
+}
