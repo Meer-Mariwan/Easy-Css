@@ -214,5 +214,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Read Only Pseudo Class":{
+    "description": "Read Only Pseudo Class",
+    "prefix": "!read-only",
+    "body":[
+      "${1:selector}:read-only {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
