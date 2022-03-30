@@ -142,5 +142,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Nth Child Pseudo Class":{
+    "description": "Nth Child Pseudo Class",
+    "prefix": "!nth-child",
+    "body":[
+      "${1:selector}:nth-child(${2:n}) {",
+      "${3:$0}",
+      "}" 
+    ]
   }
 }
