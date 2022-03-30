@@ -34,5 +34,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Enabled Pseudo Class":{
+    "description": "Enabled Pseudo Class",
+    "prefix": "!enabled",
+    "body":[
+      "${1:selector}:enabled {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
