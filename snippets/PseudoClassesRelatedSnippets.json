@@ -124,5 +124,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Link Pseudo Class":{
+    "description": "Link Pseudo Class",
+    "prefix": "!link",
+    "body":[
+      "${1:selector}:link {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
