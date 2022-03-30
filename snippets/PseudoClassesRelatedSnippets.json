@@ -268,5 +268,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Visited Pseudo Class":{
+    "description": "Visited Pseudo Class",
+    "prefix": "!visited",
+    "body":[
+      "${1:selector}:visited {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
