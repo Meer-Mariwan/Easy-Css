@@ -205,5 +205,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Out Of Range Pseudo Class":{
+    "description": "Out Of Range Pseudo Class",
+    "prefix": "!out-of-range",
+    "body":[
+      "${1:selector}:out-of-range {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
