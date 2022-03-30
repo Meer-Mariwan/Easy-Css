@@ -34,5 +34,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Marker Pseudo Element":{
+    "description": "Marker Pseudo Element",
+    "prefix": "!marker",
+    "body":[
+      "${1:selector}::marker {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
