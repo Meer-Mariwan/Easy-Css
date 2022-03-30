@@ -5,5 +5,12 @@
     "body":[
       "opacity: ${1:0};"
     ]
+  },
+  "Visibility":{
+    "description": "Set Visibility Property To Hidden",
+    "prefix": "!visibility",
+    "body":[
+      "visibility: ${1:hidden};"
+    ]
   }
 }
