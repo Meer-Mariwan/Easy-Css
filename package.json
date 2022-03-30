@@ -34,6 +34,10 @@
             {
               "language": "css",
               "path": "./snippets/pseudoElementsRelatedSnippets.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/PseudoClassesRelatedSnippets.json"
             }
 
         ]
