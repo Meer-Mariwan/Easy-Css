@@ -1,1 +1,9 @@
-{}
+{
+  "Opacity":{
+    "description": "Set Opacity Property To Zero",
+    "prefix": "!opacity",
+    "body":[
+      "opacity: ${1:0};"
+    ]
+  }
+}
