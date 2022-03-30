@@ -259,5 +259,14 @@
       "${1:$0}",
       "}" 
     ]
+  },
+  "Valid Pseudo Class":{
+    "description": "Valid Pseudo Class",
+    "prefix": "!valid",
+    "body":[
+      "${1:selector}:valid {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
