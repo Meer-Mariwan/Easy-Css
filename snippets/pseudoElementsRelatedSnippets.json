@@ -7,5 +7,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Before Pseudo Element":{
+    "description": "Before Pseudo Element",
+    "prefix": "!before",
+    "body":[
+      "${1:selector}::before {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
