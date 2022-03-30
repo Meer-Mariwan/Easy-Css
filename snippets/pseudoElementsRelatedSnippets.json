@@ -25,5 +25,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "First Line Pseudo Element":{
+    "description": "First Line Pseudo Element",
+    "prefix": "!first-line",
+    "body":[
+      "${1:selector}::first-line {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
