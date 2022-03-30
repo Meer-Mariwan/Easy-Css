@@ -43,5 +43,14 @@
       "${1:$0}",
       "}" 
     ]
+  },
+  "Selection Pseudo Element":{
+    "description": "Selection Pseudo Element",
+    "prefix": "!selection",
+    "body":[
+      "${1:selector}::selection {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
