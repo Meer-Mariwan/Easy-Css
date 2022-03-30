@@ -12,5 +12,13 @@
     "body":[
       "visibility: ${1:hidden};"
     ]
+  },
+  "Opacity And Visibility":{
+    "description": "Opacity And Visibility Properties",
+    "prefix": "!ov",
+    "body":[
+      "opacity: ${1:0};",
+      "visibility: ${2:hidden};"
+    ]
   }
 }
