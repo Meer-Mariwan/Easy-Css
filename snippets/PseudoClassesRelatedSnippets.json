@@ -43,5 +43,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "First Child Pseudo Class":{
+    "description": "First Child Pseudo Class",
+    "prefix": "!first-child",
+    "body":[
+      "${1:selector}:first-child {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
