@@ -115,5 +115,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Last Of Type Pseudo Class":{
+    "description": "Last Of Type Pseudo Class",
+    "prefix": "!last-of-type",
+    "body":[
+      "${1:selector}:last-of-type {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
