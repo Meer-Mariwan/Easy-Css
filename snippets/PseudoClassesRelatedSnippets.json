@@ -232,5 +232,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Required Pseudo Class":{
+    "description": "Required Pseudo Class",
+    "prefix": "!required",
+    "body":[
+      "${1:selector}:required {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
