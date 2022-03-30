@@ -88,5 +88,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Invalid Pseudo Class":{
+    "description": "Invalid Pseudo Class",
+    "prefix": "!invalid",
+    "body":[
+      "${1:selector}:invalid {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
