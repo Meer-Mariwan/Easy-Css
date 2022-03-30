@@ -61,5 +61,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Focus Pseudo Class":{
+    "description": "Focus Pseudo Class",
+    "prefix": "!focus",
+    "body":[
+      "${1:selector}:focus {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
