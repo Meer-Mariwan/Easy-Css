@@ -151,5 +151,14 @@
       "${3:$0}",
       "}" 
     ]
+  },
+  "Nth Last Child Pseudo Class":{
+    "description": "Nth Last Child Pseudo Class",
+    "prefix": "!nth-last-child",
+    "body":[
+      "${1:selector}:nth-last-child(${2:n}) {",
+      "${3:$0}",
+      "}" 
+    ]
   }
 }
