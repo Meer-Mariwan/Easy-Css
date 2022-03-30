@@ -7,5 +7,14 @@
       "${2:$0}",
       "}" 
     ]
+  },
+  "Checked Pseudo Class":{
+    "description": "Checked Pseudo Class",
+    "prefix": "!checked",
+    "body":[
+      "${1:selector}:checked {",
+      "${2:$0}",
+      "}" 
+    ]
   }
 }
