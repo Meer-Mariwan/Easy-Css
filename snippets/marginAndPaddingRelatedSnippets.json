@@ -10,7 +10,7 @@
   },
   "Margin And Padding":{
     "description": "Margin And Padding Properties",
-    "prefix": "!mp",
+    "prefix": "!margin-padding",
     "body":[
       "margin: ${1:100px} ${2:100px} ${3:100px} ${4:100px};",
       "padding: ${5:100px} ${6:100px} ${7:100px} ${8:100px};"
@@ -32,7 +32,7 @@
   },
   "All Margins":{
     "description": "Margin Top, Bottom, Right, Left Properties",
-    "prefix": "!am",
+    "prefix": "!all-margin",
     "body":[
       "margin-top: ${1:100px};",
       "margin-bottom: ${2:100px};",
@@ -42,7 +42,7 @@
   },
   "All Paddings":{
     "description": "Padding Top, Bottom, Right, Left Properties",
-    "prefix": "!ap",
+    "prefix": "!all-padding",
     "body":[
       "padding-top: ${1:100px};",
       "padding-bottom: ${2:100px};",
@@ -52,7 +52,7 @@
   },
   "All Margins And Paddings":{
     "description": "Margin Top, Bottom, Right, Left, Padding Top, Bottom, Right, Left Properties",
-    "prefix": "!amp",
+    "prefix": "!all-margin-padding",
     "body":[
       "margin-top: ${1:100px};",
       "margin-bottom: ${2:100px};",
@@ -66,7 +66,7 @@
   },
   "Margin Auto":{
     "description": "Set Margin Right And Left To Auto",
-    "prefix": "!ma",
+    "prefix": "!margin-auto",
     "body":[
       "margin-right: ${1:auto};",
       "margin-left: ${2:auto};" 
