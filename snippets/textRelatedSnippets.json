@@ -1,1 +1,12 @@
-{}
+{
+  "Font Face":{
+    "description": "Font Face",
+    "prefix": "!font-face",
+    "body":[
+      "@font-face {",
+        "font-family: \"${1:Font Name}\";",
+        "src: url(\"${2:Font Src}\") format(\"${3:Font Format}\");",
+      "}"
+    ]
+  }
+}
