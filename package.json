@@ -46,6 +46,10 @@
             {
               "language": "css",
               "path": "./snippets/textRelatedSnippets.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/backgroundRelatedSnippets.json"
             }
 
         ]
