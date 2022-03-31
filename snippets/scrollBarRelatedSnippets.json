@@ -10,7 +10,7 @@
   },
   "Webkit-Scrollbar-Button Property":{
     "description": "Webkit-Scrollbar-Button Property",
-    "prefix": "!wsb",
+    "prefix": "!ws-button",
     "body":[
       "::-webkit-scrollbar-button {",
       "${1:$0}",
@@ -19,7 +19,7 @@
   },
   "Webkit-Scrollbar-Corner Property":{
     "description": "Webkit-Scrollbar-Corner Property",
-    "prefix": "!wsc",
+    "prefix": "!ws-corner",
     "body":[
       "::-webkit-scrollbar-corner {",
       "${1:$0}",
@@ -28,7 +28,7 @@
   },
   "Webkit-Scrollbar-Thumb Property":{
     "description": "Webkit-Scrollbar-Thumb Property",
-    "prefix": "!wsth",
+    "prefix": "!ws-thumb",
     "body":[
       "::-webkit-scrollbar-thumb {",
       "${1:$0}",
@@ -37,7 +37,7 @@
   },
   "Webkit-Scrollbar-Track Property":{
     "description": "Webkit-Scrollbar-Track Property",
-    "prefix": "!wstr",
+    "prefix": "!ws-track",
     "body":[
       "::-webkit-scrollbar-track {",
       "${1:$0}",
@@ -46,7 +46,7 @@
   },
   "Webkit-Scrollbar-Track-Piece Property":{
     "description": "Webkit-Scrollbar-Track-Piece Property",
-    "prefix": "!wstrp",
+    "prefix": "!ws-track-piece",
     "body":[
       "::-webkit-scrollbar-track-piece {",
       "${1:$0}",
@@ -55,7 +55,7 @@
   },
   "All Webkit-Scrollbar Properties":{
     "description": "All Webkit-Scrollbar Properties",
-    "prefix": "!aws",
+    "prefix": "!all-ws",
     "body":[
       "::-webkit-scrollbar {",
       "${1:$0}",
