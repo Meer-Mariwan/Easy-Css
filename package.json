@@ -42,6 +42,10 @@
             {
               "language": "css",
               "path": "./snippets/opacityAndVisibilityRelatedSnippets.json"
+            },
+            {
+              "language": "css",
+              "path": "./snippets/textRelatedSnippets.json"
             }
 
         ]
