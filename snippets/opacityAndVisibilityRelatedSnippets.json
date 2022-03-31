@@ -15,7 +15,7 @@
   },
   "Opacity And Visibility":{
     "description": "Opacity And Visibility Properties",
-    "prefix": "!ov",
+    "prefix": "!opacity-visibility",
     "body":[
       "opacity: ${1:0};",
       "visibility: ${2:hidden};"
