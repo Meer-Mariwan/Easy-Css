@@ -1,7 +1,7 @@
 {
   "Width And Height":{
     "description": "Width And Height Properties",
-    "prefix": "!wh",
+    "prefix": "!width-heigh",
     "body":[
       "width: ${1:100px};",
       "height: ${2:100px};"
@@ -9,7 +9,7 @@
   },
   "All Widths":{
     "description": "Width Property With Min And Max Width Properties",
-    "prefix": "!aw",
+    "prefix": "!all-width",
     "body":[
       "width: ${1:100px};",
       "max-width: ${2:100px};",
@@ -18,7 +18,7 @@
   },
   "All Heights":{
     "description": "Height Property With Min And Max Height Properties",
-    "prefix": "!ah",
+    "prefix": "!all-height",
     "body":[
       "height: ${1:100px};",
       "max-height: ${2:100px};",
@@ -27,7 +27,7 @@
   },
   "All Widths And Heights":{
     "description": "Width Property With Max And Min Width Properties, Height Property With Min And Max Height Properties",
-    "prefix": "!awh",
+    "prefix": "!all-width-height",
     "body":[
       "width: ${1:100px};",
       "max-width: ${2:100px};",
