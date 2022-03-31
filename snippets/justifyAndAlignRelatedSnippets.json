@@ -1,7 +1,7 @@
 {
   "All Justify Properties":{
     "description": "All Justify Properties",
-    "prefix": "!aj",
+    "prefix": "!all-justify",
     "body":[
       "justify-content: ${1:center};",
       "justify-items: ${2:center};",
@@ -10,16 +10,16 @@
   },
   "All Align Properties":{
     "description": "All Align Properties",
-    "prefix": "!aa",
+    "prefix": "!all-align",
     "body":[
       "align-content: ${1:center};",
       "align-items: ${2:center};",
       "align-self: ${3:center};"
     ]
   },
-  "All Align And Justify Properties":{
-    "description": "All Align And Justify Properties",
-    "prefix": "!aaj",
+  "All Justify And Align Properties":{
+    "description": "All Justify And Align Properties",
+    "prefix": "!all-justify-align",
     "body":[
       "justify-content: ${1:center};",
       "justify-items: ${2:center};",
@@ -31,7 +31,7 @@
   },
   "Justify Content And Align Items Center":{
     "description": "Set Justify Content And Align Items To Center",
-    "prefix": "!jac",
+    "prefix": "!justify-align-center",
     "body":[
       "justify-content: ${1:center};",
       "align-items: ${2:center};"
