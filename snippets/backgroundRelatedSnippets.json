@@ -1,1 +1,10 @@
-{}
+{
+  "Background Property":{
+    "description": "Background Property",
+    "prefix": "!background",
+    "body":[
+      "background: ${1:bg-color} ${2:bg-image} ${3:position/bg-size} ${4:bg-repeat} ${5:bg-origin} ${6:bg-clip} ${7:bg-attachment};"
+    ]
+  }
+}
+
