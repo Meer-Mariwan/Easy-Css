@@ -3,6 +3,7 @@
     "displayName": "Easy Css",
     "description": "Writing Css Code Is Hard Make It Easy By Using Easy css Snippets",
     "version": "0.0.1",
+    "icon":"./assets/EasyCssLogo.png",
     "engines": {
         "vscode": "^1.65.0"
     },
