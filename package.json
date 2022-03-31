@@ -2,8 +2,13 @@
     "name": "easy-css",
     "displayName": "Easy Css",
     "description": "Writing Css Code Is Hard Make It Easy By Using Easy css Snippets",
+    "author": "Meer Mariwan",
     "version": "0.0.1",
     "icon":"./assets/EasyCssLogo.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Meer-Mariwan/Easy-Css"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
