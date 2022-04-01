@@ -84,3 +84,42 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 | !first-line      | First Line Pseudo Element            |
 | !marker      | Marker Pseudo Element            |
 | !selection      | Selection Pseudo Element           |
+
+---
+<br>
+
+## Pseudo Classes Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !active      | Active Pseudo Class            |
+| !checked      | Checked Pseudo Class            |
+| !disabled      | Disabled Pseudo Class            |
+| !empty      | Empty Pseudo Class            |
+| !enabled      | Enabled Pseudo Class            |
+| !first-child      | First Child Pseudo Class           |
+| !first-of-type     | First Of Type Pseudo Class           |
+| !focus     | Focus Pseudo Class           |
+| !hover     | Hover Pseudo Class           |
+| !in-range     | In Range Pseudo Class          |
+| !invalid     | Invalid Pseudo Class          |
+| !lang     | Lang Pseudo Class          |
+| !last-child     | Last Child Pseudo Class          |
+| !last-of-type     | Last Of Type Pseudo Class         |
+| !link     | Link Pseudo Class         |
+| !not     | Not Pseudo Class          |
+| !nth-child     | Nth Child Pseudo Class         |
+| !nth-last-child     | Nth Last Child Pseudo Class          |
+| !!nth-last-of-type     | Nth Last Of Type Pseudo Class         |
+| !nth-of-type     | Nth Of Type Pseudo Class          |
+| !only-of-type     | Only Of Type Pseudo Class          |
+| !only-child     | Only Child Pseudo Class          |
+| !optional     | Optional Pseudo Class          |
+| !out-of-range     | Out Of Range Pseudo Class          |
+| !read-only     | Read Only Pseudo Class          |
+| !read-write     | Read Write Pseudo Class          |
+| !required     | Required Pseudo Class         |
+| !root     | Root Pseudo Class          |
+| !target     | Target Pseudo Class          |
+| !valid    | Valid Pseudo Class          |
+| !visited     | Visited Pseudo Class          |
