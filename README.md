@@ -70,3 +70,17 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 | !all-align      | All Align Properties            |
 | !all-justify-align      | All Justify And Align Properties            |
 | !justify-align-center      | Set Justify Content And Align Items To Center            |
+
+---
+<br>
+
+## Pseudo Elements Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !after      | After Pseudo Element            |
+| !before      | Before Pseudo Element            |
+| !first-letter      | First Letter Pseudo Element            |
+| !first-line      | First Line Pseudo Element            |
+| !marker      | Marker Pseudo Element            |
+| !selection      | Selection Pseudo Element           |
