@@ -15,6 +15,11 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+      "Easy css",
+      "css",
+      "snippets"
+    ],
     "contributes": {
         "snippets": [
             {
