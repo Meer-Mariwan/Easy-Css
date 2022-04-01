@@ -58,3 +58,15 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 | !ws-track      | Webkit-Scrollbar-Track Property            |
 | !ws-track-piece      | Webkit-Scrollbar-Track-Piece Property            |
 | !all-ws      | All Webkit-Scrollbar Properties            |
+
+---
+<br>
+
+## Justify And Align Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !all-justify      | All Justify Properties            |
+| !all-align      | All Align Properties            |
+| !all-justify-align      | All Justify And Align Properties            |
+| !justify-align-center      | Set Justify Content And Align Items To Center            |
