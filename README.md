@@ -2,6 +2,9 @@
 
 Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 
+## Download
+For Downloading Easy Css Extension Please Visit [Here](https://marketplace.visualstudio.com/items?itemName=MeerMariwan.easy-css) 
+
 <br>
 
 ## Commands
