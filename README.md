@@ -135,3 +135,11 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 | !visibility      | Set Visibility Property To Hidden           |
 | !opacity-visibility      | Opacity And Visibility Properties            |
 
+---
+<br>
+
+## Text Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !font-face      | Font Face            |
