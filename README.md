@@ -35,11 +35,26 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 ---
 <br>
 
-## width And Height Related Snippets
+## Width And Height Related Snippets
 
 | *Command* | *Description*                                                                                   
 | ----------- | ---------------------------------------|
-| !width-heigh      | Width And Height Properties             |
+| !width-height      | Width And Height Properties             |
 | !all-width      | Width Property With Min And Max Width Properties             |
 | !all-height      | Height Property With Min And Max Height Properties            |
 | !all-width-height      | Width Property With Max And Min Width Properties, Height Property With Min And Max Height Properties            |
+
+---
+<br>
+
+## ScrollBar Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !ws      | Webkit-Scrollbar Property            |
+| !ws-button      | Webkit-Scrollbar-Button Property            |
+| !ws-corner      | Webkit-Scrollbar-Corner Property            |
+| !ws-thumb      | Webkit-Scrollbar-Thumb Property            |
+| !ws-track      | Webkit-Scrollbar-Track Property            |
+| !ws-track-piece      | Webkit-Scrollbar-Track-Piece Property            |
+| !all-ws      | All Webkit-Scrollbar Properties            |
