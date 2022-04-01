@@ -143,3 +143,12 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 | *Command* | *Description*                                                                                   
 | ----------- | ---------------------------------------|
 | !font-face      | Font Face            |
+
+---
+<br>
+
+## Background Related Snippets
+
+| *Command* | *Description*                                                                                   
+| ----------- | ---------------------------------------|
+| !background      | Background Property            |
