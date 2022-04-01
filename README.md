@@ -4,7 +4,11 @@ Writing Css Code Is Hard Make It Easy By Using Easy css Snippets
 
 ## Commands
 
-| **Commands** | **Description**                                                                                    
+---
+### Position Related Snippets
+
+| *Commands* | *Description*                                                                                   
 | ----------- | ---------------------------------------|
-| !wh       | Width And Height Properties              |
+| !position       | Position Property With Top, Bottom, Right, Left Properties              |
+| !center      | Centering A Component Using Position And Transform Properties              |
 
